@@ -1,0 +1,2 @@
+function xdot = pend(t,x)
+g = 32;%ft/s
